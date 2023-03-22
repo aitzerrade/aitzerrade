@@ -14,19 +14,16 @@ Reach out to me at...
 
 </a><a href="https://www.linkedin.com/in/mohamed-ait-zerrad-b13073163/">
   <img align="left" alt="mohamed Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<br/>
-<br/>
-<br/>
+
 
 #### Languages
-<br/><p align="left">
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="35"><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-
 #### Tools and Frameworks
-<br/><p align="left">
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="35"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
